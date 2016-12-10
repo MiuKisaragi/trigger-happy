@@ -2,7 +2,7 @@ package jp.MiuKisaragi.HeartIsHopping;
 import java.util.ArrayList;
 import java.util.List;
 
-public class HeartIsHoppingGenelatorEngine {
+public class HeartIsHoppingGeneratorEngine {
 	private static final String go = new String("ご");
 	private static final String chi = new String("ち");
 	private static final String u = new String("う");
